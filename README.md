@@ -9,7 +9,8 @@ In order to make it work, please follow the instructions below:
   <li>[LINUX / MAC] Please make sure you have running permissions on the /bin/ directory and run chmod +x *.sh</li>
   <li>Restart tomcat [TOMCAT DIR]/bin/shutdown.sh & startup.sh (for non-Windows OS) or /bin/shutdown.bat & startup.bat</li>
   <li>The Tomcat URL is <a href=http://localhost:8080/>http://localhost:8080/</a></li>  
-  <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
+  <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li> 
+  <li>If you need help with Tomcat: <a href=https://tomcat.apache.org/findhelp.html>Support</a></li> 
 </ul>
 
  > ```xml
